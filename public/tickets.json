@@ -1,0 +1,137 @@
+[
+  {
+    "id": "#1",
+    "title": "Error 404 on Reports Page",
+    "description": "User encounters a 404 error when trying to open the monthly reports section.",
+    "customer": "Travis Nolan",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2025-03-11"
+  },
+  {
+    "id": "#2",
+    "title": "VPN Connection Drops Frequently",
+    "description": "VPN disconnects every 10-15 minutes, affecting work from home access.",
+    "customer": "Sabrina Lewis",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2025-04-02"
+  },
+  {
+    "id": "#3",
+    "title": "Unexpected Logout from App",
+    "description": "App logs out randomly without any action by the user.",
+    "customer": "Connor Patel",
+    "priority": "LOW",
+    "status": "Open",
+    "createdAt": "2025-01-25"
+  },
+  {
+    "id": "#4",
+    "title": "Missing Language Options",
+    "description": "Settings page does not show all available languages for selection.",
+    "customer": "Jasmine Romero",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2025-05-12"
+  },
+  {
+    "id": "#5",
+    "title": "Slow File Upload",
+    "description": "Files larger than 10MB take several minutes to upload or fail midway.",
+    "customer": "Evan Chen",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2025-02-18"
+  },
+  {
+    "id": "#6",
+    "title": "Push Notifications Not Showing",
+    "description": "User reports no push notifications appear for new messages on Android device.",
+    "customer": "Lydia Grant",
+    "priority": "LOW",
+    "status": "Open",
+    "createdAt": "2025-03-05"
+  },
+  {
+    "id": "#7",
+    "title": "Incorrect Tax Calculation",
+    "description": "Invoices show incorrect tax amount for international orders.",
+    "customer": "Omar Khalid",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2025-01-30"
+  },
+  {
+    "id": "#8",
+    "title": "Profile Theme Reset",
+    "description": "User custom theme settings reset after app update.",
+    "customer": "Nina Alvarez",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2025-04-22"
+  },
+  {
+    "id": "#9",
+    "title": "Chat Messages Delayed",
+    "description": "Messages in the chat module are delayed by several minutes before delivery.",
+    "customer": "Kai Morgan",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2025-03-19"
+  },
+  {
+    "id": "#10",
+    "title": "Dashboard Widgets Not Loading",
+    "description": "Some dashboard widgets fail to load and display a spinning loader endlessly.",
+    "customer": "Alisha Roberts",
+    "priority": "LOW",
+    "status": "Open",
+    "createdAt": "2025-05-01"
+  },
+  {
+    "id": "#11",
+    "title": "Account Locked After Multiple Logins",
+    "description": "User account gets locked after several login attempts from different devices.",
+    "customer": "Derek Stein",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2025-02-08"
+  },
+  {
+    "id": "#12",
+    "title": "Incorrect Order Quantity",
+    "description": "Orders show wrong quantity in invoice compared to what was ordered.",
+    "customer": "Maya Singh",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2025-03-28"
+  },
+  {
+    "id": "#13",
+    "title": "App Dark Mode Glitch",
+    "description": "Dark mode theme switches back to light mode randomly during usage.",
+    "customer": "Liam Foster",
+    "priority": "LOW",
+    "status": "Open",
+    "createdAt": "2025-04-15"
+  },
+  {
+    "id": "#14",
+    "title": "Unexpected Data Deletion",
+    "description": "Some entries in the database disappeared without user action.",
+    "customer": "Sophia Martinez",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2025-02-26"
+  },
+  {
+    "id": "#15",
+    "title": "Login Captcha Not Loading",
+    "description": "Captcha image does not appear on login screen for new users.",
+    "customer": "Noah Bell",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2025-05-10"
+  }
+]
