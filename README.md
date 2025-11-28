@@ -8,7 +8,7 @@ The application allows users to view customer support tickets, track progress, m
 ---
 
 ## 🚀 Live Demo  
-👉 *(Add your live project link here)*
+👉 *[(https://customer-care-react-project-a07-8dtf-ourmdna6f.vercel.app/)]*
 
 ## 📦 GitHub Repository  
 👉 *[(https://github.com/mdtajrianrashid/Customer-Care-React-Project-A07)]*
