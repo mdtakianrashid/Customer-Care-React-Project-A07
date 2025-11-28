@@ -109,7 +109,7 @@ npm run dev
 The app will run on:
 👉 http://localhost:5173
 
-(or whichever port Vite shows)```
+(or whichever port Vite shows)
+```
 
 # 🎉 Thank You!
-
